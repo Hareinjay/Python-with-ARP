@@ -18,7 +18,7 @@ Once you have finished installing these modules, simply open the command prompt 
 
 when you want to start the scnan, make sure to give give your network as a target with '-t' or '--target' and enter the IP address you wish to scan along with the subnet mask.
 
-python Network Scanner with ARP.py -t 192.168.1.0/24
+	python Network Scanner with ARP.py -t 192.168.1.0/24
 
 
 
