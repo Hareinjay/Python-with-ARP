@@ -2,16 +2,16 @@
 
 First make sure that you have python installed on your device and if it's not installed, follow this link right here to download the latest version of python.
 
-https://www.python.org/downloads/
+	https://www.python.org/downloads/
 
 Then, when you manage to install python, you will need to install the required modules to your machine to run the script properly.
 For that you will need to run these commands to carry out the installation.
 
-pip3 install argparse
-pip3 install scapy
-pip3 install requests
-pip3 install re
-pip3 install uuid
+	pip3 install argparse
+	pip3 install scapy
+	pip3 install requests
+	pip3 install re
+	pip3 install uuid
 
 
 Once you have finished installing these modules, simply open the command prompt and type in the network you wish to scan.
