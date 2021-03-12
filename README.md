@@ -21,7 +21,7 @@ When you want to start the scan, make sure to give give your network as a target
 	python Network Scanner.py -t 192.168.1.0/24
 	
 	
-*This code will be developed in the near future with a SQLite database to store the scanned information and to display the information to the user with a help of a web framework.
+*This code will be developed in the near future with a SQLite database to store all the scanned information and to display the information to the user with a help of a web framework.
 
 
 
