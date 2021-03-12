@@ -10,9 +10,7 @@ For that you will need to run these commands to carry out the installation.
 	pip3 install argparse
 	pip3 install scapy
 	pip3 install requests
-	pip3 install re
 	pip3 install uuid
-
 
 Once you have finished installing these modules, simply open the command prompt and type in the network you wish to scan.
 
