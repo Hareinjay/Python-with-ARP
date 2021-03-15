@@ -38,8 +38,7 @@ def scan(ip):
             #print("[+] Device vendor is "+vendor_name)
             vendor_dict = {"Vendor":vendor_name}
         except:
-            print("[!] An error occured. Check "
-            "your Internet connection.")
+            print("Loading...")
 
         new_dict = merge_two_dicts(client_dict , vendor_dict)
         client_list.append(new_dict)
