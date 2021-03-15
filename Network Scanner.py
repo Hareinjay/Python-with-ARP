@@ -35,7 +35,7 @@ def scan(ip):
         mac_address = value
         try:
             vendor_name = get_mac_details(mac_address)
-            #print("[+] Device vendor is "+vendor_name)
+            print("[+] Device vendor is "+vendor_name)
             vendor_dict = {"Vendor":vendor_name}
         except:
             print("[!] An error occured. Check "
